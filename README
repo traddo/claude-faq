@@ -3,3 +3,4 @@ FAQ
 ## 外汇交易相关
 
 - [外汇交易因子挖掘方法](forex_factor_mining_faq.md) - 详细介绍外汇交易中挖掘因子的各种方法，包括基本面、技术面、机器学习等多个维度
+- [利用超级大模型生成外汇因子](llm_factor_generation_faq.md) - 如何使用Claude、GPT-4、Gemini、DeepSeek、QwenMAX等大模型进行因子挖掘和策略开发
